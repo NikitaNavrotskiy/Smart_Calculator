@@ -1,0 +1,44 @@
+.button_deposit{
+    background-image: none;
+    background-color: rgb(200, 133, 255);
+    color: black;
+    font-weight: bolder;
+    font-size: 15px;
+    border: 1px solid black; 
+}
+
+.button_deposit:active{
+    background-image: none;
+    background-color: rgb(110, 38, 158);
+    color: black;
+    font-size: 13px;
+    border: 1px solid rgba(0, 0, 0, 0.555);
+}
+
+.window_deposit{
+    background-color: rgb(194, 89, 255);
+    color: rgba(220, 214, 255, 1);
+}
+
+.label_deposit{
+    color: black;
+    font-weight: bolder;
+} 
+
+.entry_deposit{
+    background-image: none;
+    background-color: rgb(210, 133, 255) ;
+    font-size: 15px;
+    font-weight: bolder;
+    border: 1px solid black; 
+    color: black
+}
+
+.entry_deposit:active{
+    background-image: none;
+    background-color: rgb(196, 133, 255) ;
+    font-size: 15px;
+    font-weight: bolder;
+    border: 2px solid black; 
+    color: black
+}

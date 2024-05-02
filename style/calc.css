@@ -1,0 +1,45 @@
+.button{
+    background-image: none;
+    background-color: rgb(255, 133, 145);
+    color: black;
+    font-weight: bolder;
+    font-size: 15px;
+    border: 1px solid black; 
+}
+
+.button:active{
+    background-image: none;
+    background-color: rgb(158, 38, 50);
+    color: black;
+    font-size: 13px;
+    border: 1px solid rgba(0, 0, 0, 0.555);
+}
+
+.window{
+    background-color: rgb(255, 89, 106);
+    color: rgba(220, 214, 255, 1);
+}
+
+.label{
+    color: black;
+    font-weight: bolder;
+} 
+
+.entry{
+    background-image: none;
+    background-color: rgb(255, 133, 145) ;
+    font-size: 15px;
+    font-weight: bolder;
+    border: 1px solid black; 
+    color: black
+}
+
+.entry:active{
+    background-image: none;
+    background-color: rgb(255, 133, 145) ;
+    font-size: 15px;
+    font-weight: bolder;
+    border: 2px solid black; 
+    color: black
+}
+

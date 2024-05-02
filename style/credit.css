@@ -1,0 +1,44 @@
+.button_credit{
+    background-image: none;
+    background-color: rgb(133, 196, 255);
+    color: black;
+    font-weight: bolder;
+    font-size: 15px;
+    border: 1px solid black; 
+}
+
+.button_credit:active{
+    background-image: none;
+    background-color: rgb(38, 94, 158);
+    color: black;
+    font-size: 13px;
+    border: 1px solid rgba(0, 0, 0, 0.555);
+}
+
+.window_credit{
+    background-color: rgb(89, 180, 255);
+    color: rgba(220, 214, 255, 1);
+}
+
+.label_credit{
+    color: black;
+    font-weight: bolder;
+} 
+
+.entry_credit{
+    background-image: none;
+    background-color: rgb(133, 206, 255) ;
+    font-size: 15px;
+    font-weight: bolder;
+    border: 1px solid black; 
+    color: black
+}
+
+.entry_credit:active{
+    background-image: none;
+    background-color: rgb(133, 210, 255) ;
+    font-size: 15px;
+    font-weight: bolder;
+    border: 2px solid black; 
+    color: black
+}
